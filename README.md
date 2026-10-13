@@ -1,6 +1,6 @@
 # Docker whatsapp-webjs
 
-Image `node:26-bookworm-slim`, avec `whatsapp-web.js`,
+Image `node:24-bookworm-slim`, avec `whatsapp-web.js`,
 Puppeteer / Chrome et `qrcode-terminal`. Les dépendances de `package.json`
 sont installées automatiquement pendant la construction.
 
